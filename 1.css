@@ -1,0 +1,28 @@
+.n{
+    border: 2.5px solid black;
+    border-radius: 100%;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    background-color: rgb(179, 227, 83);
+}
+.main{
+    border: 2.5px solid black;
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    top: 15px;
+    left: 15px;
+    background-color: red;
+}
+
+.uno, .dos{
+    top: 10px;
+}
+.tres, .cuatro{
+    top: 260px;
+}
+.dos, .cuatro{
+    left: 255px;
+}
